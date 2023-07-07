@@ -1,4 +1,4 @@
-![](https://github.com/DSharrma/DSharrma/blob/main/github-header-image.png?raw=true)
+![](https://github.com/DSharrma/DSharrma/blob/main/github_banner.png?raw=true)
 
 I am an enthusiastic and optimistic data analyst working towards a career in data science. I had numerous Excel work for my Actuarial degree in university and I was lazy so I did what any ordinary university student would do; bought a discounted course on Coursera about Microsoft VBA so I could automate repetitive parts of my projects. Thus began my journey towards analytical mastery 🔥🔥🔥
 
